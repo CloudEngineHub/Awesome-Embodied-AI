@@ -512,6 +512,8 @@ As embodied AI systems are deployed in safety-critical environments (autonomous 
 
 ## Simulators
 
+- [x] OmniSim [[Project Link]](https://github.com/omnilink-tech/omnisim) [2026]
+
 - [x] SIMPLE: Simulation-Based Policy Learning and Evaluation for Humanoid Loco-manipulation [[Paper Link]](https://arxiv.org/abs/2606.08278) [[Project Link]](https://github.com/physical-superintelligence-lab/SIMPLE) [2026]
 - [ ] An Embodied Simulation Platform, Benchmark, and Data-Efficient Augmentation Framework for Wet-Lab Robotics [[Paper Link]](https://arxiv.org/abs/2606.12936) [2026]
 - [ ] Embodied-BenchClaw: An Autonomous Multi-Agent System for Embodied Spatial Intelligence Benchmark Construction [[Paper Link]](https://arxiv.org/abs/2606.11909) [2026]
